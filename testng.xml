@@ -3,7 +3,7 @@
 <suite name="Main Test Suite" verbose="1">
 	<test name="test">
 		<classes>
-			<class name="web.gitdemo.devrabbittest.webtestclasses.TC1" />
+			<class name="web.testweb.devrabbittest.webtestclasses.TC_DevTest" />
 			<class name="com.fileupload.ReportUpload" />
 		</classes>
 		</test>
